@@ -6,6 +6,6 @@
 
 see `rust_re/`
 
-- reversing iterators
-- reversing the `obfstr` crate
+- `00_iterators.md` reversing iterators
+- `01_obfstr.md` reversing the `obfstr` crate
 
