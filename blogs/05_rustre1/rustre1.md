@@ -1,4 +1,8 @@
-# Rust Reverse Engineering - Iterators
+---
+title: "Rust Reversing - Iterators"
+date: 2024-06-22T10:58:55+02:00
+draft: false
+---
 
 ![logo](rre_small.png)
 

@@ -1,6 +1,10 @@
-# Deobfuscating the obfstr Crate
+---
+title: "Rust Reversing - obfstr crate"
+date: 2025-04-30T11:25:42+02:00
+draft: false
+---
 
-![logo](rre_small.png)
+Deobfuscating the obfstr Crate
 
 The binaries for this post can be found at: `**rust-re** (https://github.com/0xca7/rust-re)`.
 
